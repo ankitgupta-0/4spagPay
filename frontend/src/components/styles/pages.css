@@ -1,0 +1,32 @@
+/* src/common.css */
+
+/* General Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444;
+}
+
+
+.main-content {
+  padding: 20px;
+  margin-top: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    width: 95%;
+  }
+
+  .navbar a {
+    display: block;
+    margin: 5px 0;
+  }
+}

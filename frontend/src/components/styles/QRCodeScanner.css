@@ -1,0 +1,10 @@
+/* QRCodeScanner.css */
+
+.scanner-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.scanner-container h2 {
+  margin-bottom: 1rem;
+}
